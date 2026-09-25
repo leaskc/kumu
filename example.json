@@ -3,20 +3,21 @@
     {
         "label": "Top",
         "type": "Letter",
-        "description": "This is A",
+        "description": "This is a top node",
         "tags": ["one", "two"]
     },
     {
         "label": "bottom",
         "type": "Letter",
-        "Favorite Dessert": "shave ice"
+        "Favorite Dessert": "shave ice",
+        "description": "this is a bottom node"
     }
   ],
   "connections": [
     {
         "from": "Top",
         "to": "bottom",
-        "type": "likes"
+        "type": "is above"
     }
   ]
 }
