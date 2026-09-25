@@ -1,0 +1,22 @@
+{
+  "elements": [
+    {
+        "label": "Top",
+        "type": "Letter",
+        "description": "This is A",
+        "tags": ["one", "two"]
+    },
+    {
+        "label": "bottom",
+        "type": "Letter",
+        "Favorite Dessert": "shave ice"
+    }
+  ],
+  "connections": [
+    {
+        "from": "Top",
+        "to": "bottom",
+        "type": "likes"
+    }
+  ]
+}
