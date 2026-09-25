@@ -1,18 +1,4 @@
 {
-  "elements": [
-    {
-        "label": "Top",
-        "type": "Letter",
-        "description": "This is a top node",
-        "tags": ["one", "two"]
-    },
-    {
-        "label": "bottom",
-        "type": "Letter",
-        "Favorite Dessert": "shave ice",
-        "description": "this is a bottom node"
-    }
-  ],
   "connections": [
     {
         "from": "Top",
